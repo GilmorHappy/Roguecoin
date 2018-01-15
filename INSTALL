@@ -1,0 +1,9 @@
+Building Roguecoin
+
+See doc/readme-qt.rst for instructions on building Roguecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Roguecoin.
+
+See doc/build-*.txt for instructions on building roguecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Roguecoin.
